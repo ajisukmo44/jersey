@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tentang-kami", {data:[{}],fetch:{},mutations:[]});
